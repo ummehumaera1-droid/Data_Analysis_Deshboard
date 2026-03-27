@@ -2,7 +2,7 @@
 ## Project Object
 Data analysis dashboard built in Excel featuring KPI tracking, sales trends, customer insights, and location-based performance visualization.
 ## Dataset used
--<a href="https://github.com/ummehumaera1-droid/Data_Analysis_Dashboard/blob/main/Doughy_Dreams_sales_data%20.xlsx">Dataset</a>
+- <a href="https://github.com/ummehumaera1-droid/Data_Analysis_Dashboard/blob/main/Doughy_Dreams_sales_data%20.xlsx">Dataset</a>
 ## Questions (KPIs)
 1. What are the overall business performance metrics?
 - Total Sales
@@ -27,6 +27,7 @@ Data analysis dashboard built in Excel featuring KPI tracking, sales trends, cus
 - Contribution of Male, Female, and Others
 10. Which payment methods are most used?
 - Cash, Credit Card, Debit Card, Mobile Payment
-- Dashboard Interaction <a herf="https://github.com/ummehumaera1-droid/Data_Analysis_Dashboard/blob/main/Screenshot%202026-03-27%20190343.png"> View Dashboard</a>
+## Dashboard Interaction
+- <a herf="https://github.com/ummehumaera1-droid/Data_Analysis_Dashboard/blob/main/Screenshot%202026-03-27%20190343.png"> View Dashboard</a>
 
 
