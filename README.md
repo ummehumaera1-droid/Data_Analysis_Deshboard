@@ -27,8 +27,7 @@ Data analysis dashboard built in Excel featuring KPI tracking, sales trends, cus
 - Contribution of Male, Female, and Others
 10. Which payment methods are most used?
 - Cash, Credit Card, Debit Card, Mobile Payment
-## Dashboard Interaction
-- <a herf="https://github.com/ummehumaera1-droid/Data_Analysis_Dashboard/blob/main/Screenshot%202026-03-27%20190343.png">View Dashboard</a>
+-Dashboard Interaction<a herf="https://github.com/ummehumaera1-droid/Data_Analysis_Dashboard/blob/main/Screenshot%202026-03-27%20190343.png">View Dashboard</a>
 
 ## Process
 - Cleaned and formatted the dataset in Excel.
@@ -37,4 +36,6 @@ Data analysis dashboard built in Excel featuring KPI tracking, sales trends, cus
 - Created charts for trends, products, and customer insights.
 - Added slicers (Month, Location) for interactivity.
 - Designed a clean and user-friendly dashboard layout.
+## Dashboard
+<img width="1329" height="569" alt="Screenshot 2026-03-27 190343" src="https://github.com/user-attachments/assets/bd195f58-f55c-485f-b4b2-f80cee07991f" />
 
