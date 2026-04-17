@@ -1,8 +1,10 @@
 # Doughy Dreams Sales Analysis
 ## Project Object
 Data analysis dashboard built in Excel featuring KPI tracking, sales trends, customer insights, and location-based performance visualization.
+
 ## Dataset used
 - <a href="https://github.com/ummehumaera1-droid/Data_Analysis_Dashboard/blob/main/Doughy_Dreams_sales_data%20.xlsx">Dataset</a>
+
 ## Questions (KPIs)
 1. What are the overall business performance metrics?
 - Total Sales
